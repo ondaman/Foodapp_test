@@ -1,0 +1,5 @@
+FROM django
+
+WORKDIR /
+
+ 
